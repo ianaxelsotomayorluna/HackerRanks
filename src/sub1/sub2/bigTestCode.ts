@@ -1,3 +1,3 @@
 export function bigTestCode() {
-  console.log('--------------bigTestCode :) -------------\n');
+  console.log('--------------bigTestCode -------------\n');
 }

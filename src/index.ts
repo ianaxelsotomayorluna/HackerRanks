@@ -9,5 +9,5 @@ function main() {
 main();
 
 function smallTestCode() {
-  console.log('Do some small code');
+  console.log('Do some small stuff');
 }
