@@ -1,3 +1,3 @@
-export const commitID = '69161a727ad3e81b37df163ed8a063d5046cd5d7';
+export const commitID = '8e6819bb209c94f9f2c25e11284ade56dfe0e40e';
 
-export const commitMssg = 'jsdocs en eslint';
+export const commitMssg = 'dockerfile fixed for post-commit hook';
