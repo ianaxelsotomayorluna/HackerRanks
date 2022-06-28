@@ -20,6 +20,18 @@
   },
   "rules": {
     "prettier/prettier": "error",
+    "require-jsdoc": [
+      "warn",
+      {
+        "require": {
+          "FunctionDeclaration": true,
+          "MethodDefinition": false,
+          "ClassDeclaration": false,
+          "ArrowFunctionExpression": false,
+          "FunctionExpression": false
+        }
+      }
+    ],
     // Javascript
     "no-console": "off",
     "no-unused-vars": 0,

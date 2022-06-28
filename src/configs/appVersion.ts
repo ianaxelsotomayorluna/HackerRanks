@@ -1,3 +1,3 @@
-export const commitID = '0c33f991a3d019a2f1a92b35e6b672a0cb20e7c9';
+export const commitID = '69161a727ad3e81b37df163ed8a063d5046cd5d7';
 
-export const commitMssg = 'cambio en readme';
+export const commitMssg = 'jsdocs en eslint';
