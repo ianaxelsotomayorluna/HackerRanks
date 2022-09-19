@@ -1,3 +1,4 @@
+import { aVeryBigSum } from './HR/aVeryBigSum';
 import { compareTriplets } from './HR/compareTriplets';
 import { simpleArraySum } from './HR/simpleArraySum';
 
@@ -8,5 +9,6 @@ function main() {
   console.log('---------- Respuesta al axelo----------\n');
   console.log(simpleArraySum([1, 2, 3]));
   console.log(compareTriplets([1, 2, 3], [3, 2, 1]));
+  console.log(aVeryBigSum([10000001, 10000002, 10000003, 10000004]));
 }
 main();
