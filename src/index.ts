@@ -1,13 +1,7 @@
-import { bigTestCode } from 'src/sub1/sub2/bigTestCode';
-
+/**
+  FUNCION MAIN DONDE MANDAREMOS A LLAMAR TODAS NUETRAS FUNCIONES PARA PROBAR LOS CODIGOS 
+ */
 function main() {
-  console.log('---------- Cool Programing ----------\n');
-  smallTestCode();
-  bigTestCode();
+  console.log('---------- Respuesta al HR----------\n');
 }
-
 main();
-
-function smallTestCode() {
-  console.log('Do some small stuff');
-}

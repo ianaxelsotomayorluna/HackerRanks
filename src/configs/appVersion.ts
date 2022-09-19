@@ -1,3 +1,3 @@
-export const commitID = '8e6819bb209c94f9f2c25e11284ade56dfe0e40e';
+export const commitID = '28741dabf5f40136a2188705f4d0d22f9f1dd2be';
 
-export const commitMssg = 'dockerfile fixed for post-commit hook';
+export const commitMssg = 'estandarizado de Codigo';
