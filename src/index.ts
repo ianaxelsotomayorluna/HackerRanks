@@ -2,7 +2,7 @@ import { aVeryBigSum } from './HR/aVeryBigSum';
 import { compareTriplets } from './HR/compareTriplets';
 import { diagonalDifference } from './HR/diagonalDifference';
 import { simpleArraySum } from './HR/simpleArraySum';
-
+import { plusMinus } from './HR/plusMinus';
 /**
   FUNCION MAIN DONDE MANDAREMOS A LLAMAR TODAS NUETRAS FUNCIONES PARA PROBAR LOS CODIGOS 
  */
@@ -18,5 +18,6 @@ function main() {
       [9, 8, 9]
     ])
   );
+  console.log(plusMinus([4, -200, 0]));
 }
 main();
