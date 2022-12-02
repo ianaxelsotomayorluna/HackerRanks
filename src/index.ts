@@ -7,6 +7,7 @@ import { miniMaxSum } from './HR/miniMaxSum';
 import { staircase } from './HR/staircase';
 import { birthdayCakeCandles } from './HR/birthdayCakeCandles';
 import { timeConversion } from './HR/timeConversion';
+import { gradingStudents } from './HR/hackerLandUniversity';
 /**
   FUNCION MAIN DONDE MANDAREMOS A LLAMAR TODAS NUETRAS FUNCIONES PARA PROBAR LOS CODIGOS 
  */
@@ -29,5 +30,7 @@ function main() {
   const test = '07:05:45PM';
   const result = timeConversion(test);
   console.log('Result: ', result);
+
+  console.log(gradingStudents([4, 73, 67, 38, 33]));
 }
 main();
